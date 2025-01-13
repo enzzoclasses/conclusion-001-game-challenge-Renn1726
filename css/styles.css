@@ -2,12 +2,15 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    border: 2px solid white
   }
   html {
     height: 100%;
   }
   body {
-    background-color: #1a1b1e;
     height: 100%;
+    background-image: url("../images/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
   }
   
